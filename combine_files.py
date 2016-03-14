@@ -22,7 +22,3 @@ def combine_football_data():
                             continue
 
                         master_file.write(line)
-
-
-if __name__ == "__main__":
-    combine_football_data()
