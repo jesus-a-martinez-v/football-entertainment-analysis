@@ -23,3 +23,6 @@ python main.py [file_path]
 ```
 
 If you want to store the resulting tables from the statistical analysis for later review, introduce the path of the file where you want to save them. If you omit this parameter, then they'll be shown in your terminal :)
+
+### Further information ###
+In the **reports** directory you'll find the research paper in PDF format (In Spanish only for the moment).
