@@ -57,5 +57,3 @@ if __name__ == '__main__':
         print anova_table
         print tukey_hsd_table
 
-
-
